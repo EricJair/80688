@@ -12,6 +12,6 @@ var mensajes_bot = {
     sorpresa: "orale",
 }
 
-var arr_msj = ("Hola","adios", "como estas", "orale")
+var arr_msj = ["Hola","adios", "como estas", "orale"]
 
 console.log ()
